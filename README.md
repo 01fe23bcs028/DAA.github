@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abhishek Timmanagoudar - Portfolio</title>
+    <title>Mohit Belagavi - Portfolio</title>
     <style>
         /* General Styles */
         body {
@@ -102,7 +102,7 @@
 <body>
 
 <header>
-    <h1>Abhishek Timmanagoudar</h1>
+    <h1>Mohit Belagavi</h1>
 </header>
 
 <nav>
@@ -115,16 +115,16 @@
 <section id="about">
     <h2>About Me</h2>
     <p>
-        Hi! I am a student pursuing a BTech in Computer Science (AI) from KLETECH University, Belagavi. 
-        My SRN is <strong>02FE23BCI024</strong>. This portfolio showcases my 3rd semester project under the guidance of 
-        <strong>Priyanka Gavde Ma'am</strong>, the course instructor for Design and Analysis of Algorithms.
+        Hi! I am a student pursuing a BTech in Computer Science from KLETECH University, Huballi. 
+        My SRN is <strong>01FE23BCS028</strong>. This portfolio showcases my 3rd semester project under the guidance of 
+        <strong>Prakash hegde</strong>, the course instructor for Design and Analysis of Algorithms.
     </p>
 </section>
 
 <section id="projects">
     <h2>Projects</h2>
     <ul>
-        <li><strong>Smart Train Transportation System:</strong> Built a smart train transportation application that utilizes advanced algorithms and data structures. The project offers booking and navigation features for both user and admin purposes.</li>
+        <li><strong>Konoha:</strong> Konoha.</li>
         <li><strong>Portfolio Website:</strong> Developed a responsive personal portfolio using HTML, CSS</li>
     </ul>
 </section>
@@ -139,14 +139,14 @@
 <section id="contact">
     <h2>Contact</h2>
     <ul>
-        <li>Email: <a href="mailto:abhishektgoudar@gmail.com">abhishektgoudar@gmail.com</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/abhishek-t-a29087308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a></li>
-        <li>GitHub: <a href="https://github.com/abhishek55555-lang/portfolio.github.io" target="_blank">GitHub</a></li>
+        <li>Email: <a href="mailto:mohitbelagavi@gmail.com">abhishektgoudar@gmail.com</a></li>
+        <li>LinkedIn: <a href=https://www.linkedin.com/in/mohit-belagavi-974a042ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_apputm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a></li>
+        
     </ul>
 </section>
 
 <footer>
-    <p>&copy; 2025 Abhishek Timmanagoudar. All Rights Reserved.</p>
+    <p>&copy; 2025 Mohit Belagavi. All Rights Reserved.</p>
 </footer>
 
 </body>
